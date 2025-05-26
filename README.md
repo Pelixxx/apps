@@ -1,4 +1,4 @@
- <h1>Links to Applications</h1>
+ <h1>Applications</h1>
     <ul>
         <li><strong>Aurora Store :</strong> <a href="https://www.auroraoss.com/downloads/AuroraStore/Release/" target="_blank">Aurora Releases</a></li>
         <li><strong>Canta :</strong> <a href="https://github.com/samolego/Canta/releases" target="_blank">Github Releases</a></li>
